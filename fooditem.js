@@ -280,76 +280,6 @@ const foodItem = [
     },
     {
         id: 32,
-        name: 'Cabbage Momos',
-        category: 'chinese',
-        rating: 4.0,
-        price: 80,
-        img: 'images/chinese/Cabbage-Momos.jpg',
-        quantity: 1
-    },
-    {
-        id: 33,
-        name: 'Chicken Fried Rice',
-        category: 'chinese',
-        rating: 4.2,
-        price: 160,
-        img: 'images/chinese/Chicken-Fried-Rice.jpg',
-        quantity: 1
-    },
-    {
-        id: 34,
-        name: 'Chicken Momos',
-        category: 'chinese',
-        rating: 4.1,
-        price: 100,
-        img: 'images/chinese/Chicken-Momos.jpg',
-        quantity: 1
-    }, {
-        id: 35,
-        name: 'Chilli Chicken',
-        category: 'chinese',
-        rating: 4.3,
-        price: 200,
-        img: 'images/chinese/Chilli-Chicken.jpg',
-        quantity: 1
-    }, {
-        id: 36,
-        name: 'Chowein',
-        category: 'chinese',
-        rating: 3.7,
-        price: 110,
-        img: 'images/chinese/Chowein.jpg',
-        quantity: 1
-    },
-    {
-        id: 37,
-        name: 'Mnachuraian',
-        category: 'chinese',
-        rating: 4.2,
-        price: 120,
-        img: 'images/chinese/Manchurian.jpg',
-        quantity: 1
-    },
-    {
-        id: 38,
-        name: 'Spring Rolls',
-        category: 'chinese',
-        rating: 4.0,
-        price: 125,
-        img: 'images/chinese/Spring-Rolls.jpg',
-        quantity: 1
-    },
-    {
-        id: 39,
-        name: 'Veg Fried Rice',
-        category: 'chinese',
-        rating: 4.5,
-        price: 150,
-        img: 'images/chinese/Veg-Fried-Rice.jpg',
-        quantity: 1
-    },
-    {
-        id: 40,
         name: 'Butter Masala Dosa',
         category: 'south-indian',
         rating: 4.5,
@@ -358,7 +288,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 41,
+        id: 33,
         name: 'Idli',
         category: 'south-indian',
         rating: 4.5,
@@ -367,7 +297,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 42,
+        id: 34,
         name: 'Masala Dosa',
         category: 'south-indian',
         rating: 4.0,
@@ -376,7 +306,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 43,
+        id: 35,
         name: 'Mysore Bonda',
         category: 'south-indian',
         rating: 3.8,
@@ -385,7 +315,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 44,
+        id: 36,
         name: 'Onion Uttapam',
         category: 'south-indian',
         rating: 4.3,
@@ -394,7 +324,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 45,
+        id: 37,
         name: 'Plain Dosa',
         category: 'south-indian',
         rating: 3.6,
@@ -403,7 +333,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 46,
+        id: 38,
         name: 'Rava Uttapam',
         category: 'south-indian',
         rating: 4.4,
@@ -412,7 +342,7 @@ const foodItem = [
         quantity: 1
     },
     {
-        id: 47,
+        id: 39,
         name: 'Sambar Vada',
         category: 'south-indian',
         rating: 3.4,
