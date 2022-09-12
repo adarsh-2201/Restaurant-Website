@@ -153,6 +153,7 @@ body {
 #chicken,
 #paneer,
 #vegetable,
+#chinese,
 #south-indian {
     margin-top: 40px;
 }
@@ -162,6 +163,7 @@ body {
     background: rgb(218, 253, 188);
 }
 
+#chinese #item-card,
 #south-indian #item-card {
     background: rgb(221, 243, 243);
 }
