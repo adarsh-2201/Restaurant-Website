@@ -284,7 +284,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.0,
         price: 80,
-        img: 'images/Chinese/Cabbage-Momos.jpg',
+        img: 'images/chinese/Cabbage-Momos.jpg',
         quantity: 1
     },
     {
@@ -293,7 +293,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.2,
         price: 160,
-        img: 'images/Chinese/Chicken-Fried-Rice.jpg',
+        img: 'images/chinese/Chicken-Fried-Rice.jpg',
         quantity: 1
     },
     {
@@ -302,7 +302,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.1,
         price: 100,
-        img: 'images/Chinese/Chicken-Momos.jpg',
+        img: 'images/chinese/Chicken-Momos.jpg',
         quantity: 1
     }, {
         id: 35,
@@ -310,7 +310,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.3,
         price: 200,
-        img: 'images/Chinese/Chilli-Chicken.jpg',
+        img: 'images/chinese/Chilli-Chicken.jpg',
         quantity: 1
     }, {
         id: 36,
@@ -318,7 +318,7 @@ const foodItem = [
         category: 'chinese',
         rating: 3.7,
         price: 110,
-        img: 'images/Chinese/Chowein.jpg',
+        img: 'images/chinese/Chowein.jpg',
         quantity: 1
     },
     {
@@ -327,7 +327,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.2,
         price: 120,
-        img: 'images/Chinese/Manchurian.jpg',
+        img: 'images/chinese/Manchurian.jpg',
         quantity: 1
     },
     {
@@ -336,7 +336,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.0,
         price: 125,
-        img: 'images/Chinese/Spring-Rolls.jpg',
+        img: 'images/chinese/Spring-Rolls.jpg',
         quantity: 1
     },
     {
@@ -345,7 +345,7 @@ const foodItem = [
         category: 'chinese',
         rating: 4.5,
         price: 150,
-        img: 'images/Chinese/Veg-Fried-Rice.jpg',
+        img: 'images/chinese/Veg-Fried-Rice.jpg',
         quantity: 1
     },
     {
